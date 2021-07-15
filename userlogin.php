@@ -75,7 +75,7 @@ var x3=sta3.indexOf(' ');
   <div class="container">
     <div class="navbar-header">
      
-      <a class="navbar-brand" href="home.php" style="margin-top: 5%;"><b>Crime Portal</b></a>
+      <a class="navbar-brand" href="index.php" style="margin-top: 5%;"><b>Crime Portal</b></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">

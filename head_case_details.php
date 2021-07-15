@@ -36,7 +36,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="home.php"><b>Crime Portal</b></a>
+      <a class="navbar-brand" href="index.php"><b>Crime Portal</b></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       
